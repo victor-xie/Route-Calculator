@@ -8,4 +8,14 @@ The first is a BFS_DFS algorithm that can performed either Breadth-First Search 
 
 The second algorithm was a recursive implementation of DFS. This implementation is intended to demonstrate the relative performance of DFS with an explicit stack data structure, as is the case with the BFS_DFS algorithm, versus an implicit stack, that being the Python call stack. 
 
-Finally, the third algorithm is the A<sup>*</sup> algorithm. 
+Finally, the third algorithm is the A<sup>*</sup> algorithm. A<sup>*</sup> searches based on actual distances between nodes as well as heuristic distances. Unsurprisingly, this performed the best out of the three algorithms.
+
+In all, this project is a good demonstration of data structures and algorithms in a realistic application.
+
+### What is the relative effectiveness of this project?
+As seen in the video below, there is a Google Maps implementation build into this project, which outputs what Google Maps would suggest as the optimal route. Using the buttons on the left side, a user can select a start node, end node, and which of the algorithms to test on the map of Rice University and its surrounding landmarks.
+
+
+### Project Demo?
+https://user-images.githubusercontent.com/84203383/146257840-06b6e782-8875-453e-8359-3489e5959861.mov
+
