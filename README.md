@@ -16,6 +16,6 @@ In all, this project is a good demonstration of data structures and algorithms i
 As seen in the video below, there is a Google Maps implementation build into this project, which outputs what Google Maps would suggest as the optimal route. Using the buttons on the left side, a user can select a start node, end node, and which of the algorithms to test on the map of Rice University and its surrounding landmarks.
 
 
-### Project Demo?
+### Project Demo
 https://user-images.githubusercontent.com/84203383/146257840-06b6e782-8875-453e-8359-3489e5959861.mov
 
