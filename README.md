@@ -8,7 +8,7 @@ The first is a BFS_DFS algorithm that can performed either Breadth-First Search 
 
 The second algorithm was a recursive implementation of DFS. This implementation is intended to demonstrate the relative performance of DFS with an explicit stack data structure, as is the case with the BFS_DFS algorithm, versus an implicit stack, that being the Python call stack. 
 
-Finally, the third algorithm is A<sup>*</sup>. A<sup>*</sup> searches based on actual distances between nodes as well as heuristic distances. Unsurprisingly, this performed the best out of the three algorithms.
+Finally, the third algorithm is A*. A* searches based on actual distances between nodes as well as heuristic distances. Unsurprisingly, this performed the best out of the three algorithms.
 
 In all, this project is a good demonstration of data structures and algorithms in a realistic application.
 
