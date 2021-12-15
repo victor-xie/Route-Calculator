@@ -17,5 +17,6 @@ As seen in the video below, there is a Google Maps implementation build into thi
 
 
 ### Project Demo
+In the video, the green and red markers indicate the start and end nodes, respectively. Orange edges mark paths to traversed nodes, whereas the green line denotes the final "optimized" route.
 https://user-images.githubusercontent.com/84203383/146257840-06b6e782-8875-453e-8359-3489e5959861.mov
 
