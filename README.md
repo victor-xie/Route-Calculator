@@ -13,7 +13,7 @@ Finally, the third algorithm is A*. A* searches based on actual distances betwee
 In all, this project is a good demonstration of data structures and algorithms in a realistic application.
 
 ### What is the relative effectiveness of this project?
-As seen in the video below, there is a Google Maps implementation build into this project, which outputs what Google Maps would suggest as the optimal route. Using the buttons on the left side, a user can select a start node, end node, and which of the algorithms to test on the map of Rice University and its surrounding landmarks.
+As seen in the video below, there is a Google Maps implementation built into this project, which outputs what Google Maps would suggest as the optimal route. Using the buttons on the left side, a user can select a start node, end node, and which of the algorithms to test on the map of Rice University and its surrounding landmarks.
 
 
 ### Project Demo
